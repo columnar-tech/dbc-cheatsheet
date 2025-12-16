@@ -16,7 +16,7 @@
 
 = Installing dbc
 
-dbc provides a standalone installer to download and insall dbc.
+dbc provides a standalone installer to download and install dbc.
 
 macOS and Linux:
 
